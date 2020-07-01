@@ -162,6 +162,31 @@ p.speech {
 	font-size: 20px;
 }
 .copyright p {
+	margin-top: 20px;
 	text-align: center;
     color: #707070;
+}
+
+/* Bonus area's CSS */ 
+.bonus-area-wrapper {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.bonus-area-wrapper h2{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 35px;
+	font-weight: 400;
+}
+.git-img {
+	display: inline-block;
+	float: left;
+	margin-left: 175px;
+}
+.git-content {
+	width: 450px;
+	text-align: center;
+	margin: 0 auto;
 }
